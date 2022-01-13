@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#back{
+  background-image :url(./image/background.jpg);
+ height:100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+ #NavDesign
+   {
+     font-family:'Apple Chancery', cursive;
+ }
+ #NavMain{
+   background-color: rgba(12, 6, 6, 0.514);
+   opacity: 0.9;
+   text-decoration: solid;
+ }
+ #but{
+   background-color: rgba(226, 48, 48, 0.897) ;
+   font-family:'Apple Chancery', cursive;
+ }
+ #heading{
+   font-family: "Bookman", URW Bookman L, serif;
+ }
+ #back2{
+   background-color: rgba(199, 194, 195, 0.87);
+ }
+ .login-wrapper {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ }
+ #card_back{
+   background-color:rgb(156, 157, 161);
+ }
+ #but2{
+  background-color: rgba(105, 100, 100, 0.897) ;
+  font-family:'Apple Chancery', cursive;
+}
+#logo {
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  font-style: italic;
+  font-weight: 500;
+  font-size: xxx-large;
+  color:white;
+}
+#col{
+  color:white;
+  font-weight: 100;
+}
+#foot{
+background-color: gray;
+}
